@@ -3,6 +3,7 @@
 }
 
 table {
+    width: 865px;
     margin-top: 20px;
     border-collapse: collapse;
     border: 2px solid rgb(200, 200, 200);
@@ -26,4 +27,5 @@ input,
 input:focus {
     border: none;
     outline: none;
+    padding: 0px;
 }
